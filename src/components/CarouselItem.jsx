@@ -37,6 +37,6 @@ CarouselItem.propTypes = {
   year: PropTypes.number,
   contentRating: PropTypes.string,
   duration: PropTypes.number,
-}
+};
 
 export default CarouselItem;
