@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/donnatto/react-platzi-video#readme",
   "dependencies": {
+    "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
